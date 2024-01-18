@@ -53,6 +53,7 @@ checkButton.addEventListener('click', function () {
 
         body.style.backgroundColor = '#222';
         numberDisplay.style.width = '15rem';
+        checkButton.textContent = 'Check!';
       }
     });
 
