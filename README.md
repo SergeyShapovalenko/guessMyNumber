@@ -1,1 +1,1 @@
-https://sergeyshapovalenko.github.io/guessMyNumber/
+[DEMO LINK](https://sergeyshapovalenko.github.io/guessMyNumber/)
